@@ -1,1 +1,1 @@
-# ReactJS Starter - Rocketseat
+# React Starter - Rocketseat
